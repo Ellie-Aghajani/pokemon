@@ -1,5 +1,7 @@
-import logo from './logo.svg';
-import './App.css';
+import React,{ useEffect, useState } from "react";
+import PokemonThumbnail from "./components/PokemonThumbnail";
+
+
 
 function App() {
   return 
