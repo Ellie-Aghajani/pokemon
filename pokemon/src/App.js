@@ -4,7 +4,9 @@ import PokemonThumbnail from "./components/PokemonThumbnail";
 
 
 function App() {
-  return 
+  const [allPokemons,setAllPokemons] = useState([]);
+  
+  return ();
 }
 
 export default App;
