@@ -1,2 +1,2 @@
 # pokemon
-single-page application to load Pokemon information
+React single-page application to load Pokemon information
