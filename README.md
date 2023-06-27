@@ -1,3 +1,3 @@
-# pokemon
-React single-page application to load Pokemon information
-node.js
+# pokemon Kingdom
+React single-page application to load Pokemon cards and information about them
+node.js, Express
