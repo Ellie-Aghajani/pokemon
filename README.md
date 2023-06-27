@@ -8,3 +8,4 @@ React single-page application to load Pokemon cards and information about them
 ##tablet view
 ![tablet](https://github.com/Ellie-Aghajani/pokemon/blob/main/tab.png)
 ##mobile view
+![mobile](https://github.com/Ellie-Aghajani/pokemon/blob/main/mob.png)
